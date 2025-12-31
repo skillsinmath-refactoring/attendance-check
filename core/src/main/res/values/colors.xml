@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#D93943</color>
+    <color name="blue6">#165c8f</color>
+    <color name="pressedColor">#FFDDDDDD</color>
+    <color name="defaultColor">#FFFFFFFF</color>
+</resources>

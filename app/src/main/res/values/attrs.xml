@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TimetableView">
+        <attr name="rowCount" format="integer" />
+        <attr name="columnCount" format="integer" />
+        <attr name="cellHeight" format="dimension" />
+        <attr name="sideCellWidth" format="dimension" />
+        <attr name="headerTitle" format="reference" />
+        <attr name="stickerColors" format="reference" />
+        <attr name="startTime" format="integer" />
+        <attr name="headerHighlightColor" format="color" />
+        <attr name="headerHeight" format="dimension" />
+        <attr name="marginBottom" format="dimension" />
+        <attr name="activateTimebar" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="Notification">
+        <attr name="text" format="reference|string" />
+        <attr name="description" format="reference|string" />
+        <attr name="paddingTop" format="dimension" />
+        <attr name="paddingBottom" format="dimension" />
+        <attr name="paddingStart" format="dimension" />
+        <attr name="paddingEnd" format="dimension" />
+    </declare-styleable>
+
+</resources>
